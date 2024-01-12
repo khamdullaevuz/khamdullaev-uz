@@ -48,11 +48,7 @@
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0">
                         <p>
-                            Men Elbek Khamdullaev Samarqand viloyati Kattaqo'rg'on tumanida istiqomat qilaman. Hozirda
-                            mustaqil dasturlashni o'rganmoqdaman va shu sohada ishlamoqdaman. Hozirgi kunda veb saytlar
-                            uchun backend, telegram bot va mobil ilovalar uchun rest api yaratib berish kabi ishlar
-                            bilan
-                            shug'ullanmoqdaman.
+                            Men Elbek Khamdullaev backend dasturchiman. Hozirda ABIZ kompaniyasida faoliyat olib bormoqdaman. Men haqimda batafsil quyidagi rezyumeda bilib olishingiz mumkin
                         </p>
                         <a href="uploads/resume.pdf" class="btn-learn-more">Rezyume</a>
                     </div>
