@@ -8,7 +8,7 @@
                 <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1"
                      data-aos="fade-up" data-aos-delay="200">
                     <h1>Elbek Khamdullaev</h1>
-                    <h2>Backend dasturchi, tizim administratori va ma'lumotlar tahlilchisi</h2>
+                    <h2>Backend dasturchi</h2>
                     <div class="d-flex justify-content-center justify-content-lg-start">
                         <a href="#about" class="btn-get-started scrollto">Men haqimda</a>
                         <a href="uploads/resume.pdf" class="btn-watch-video"><i
@@ -48,7 +48,7 @@
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0">
                         <p>
-                            Men Elbek Khamdullaev backend dasturchiman. Hozirda ABIZ kompaniyasida faoliyat olib bormoqdaman. Men haqimda batafsil quyidagi rezyumeda bilib olishingiz mumkin
+                            Men Elbek Khamdullaev backend dasturchiman. Hozirda ABIZ kompaniyasida faoliyat olib bormoqdaman. Men haqimda batafsil ma'lumotni quyidagi rezyume orqali bilib olishingiz mumkin
                         </p>
                         <a href="uploads/resume.pdf" class="btn-learn-more">Rezyume</a>
                     </div>
