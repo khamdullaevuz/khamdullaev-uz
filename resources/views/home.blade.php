@@ -232,66 +232,6 @@
             </div>
         </section><!-- End Portfolio Section -->
 
-        <!-- ======= Pricing Section ======= -->
-        <section id="pricing" class="pricing">
-            <div class="container" data-aos="fade-up">
-
-                <div class="section-title">
-                    <h2>Narxlar</h2>
-                    <p>Xizmatlar uchun qo'yilgan boshlang'ich narxlar. Ushbu narxlar buyurtma murakkabligini hisobga olgan
-                        holda o'zgaradi!</p>
-                </div>
-
-                <div class="row">
-
-                    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
-                        <div class="box">
-                            <h3>Telegram bot</h3>
-                            <h4><sup>$</sup>100<span>har bir loyiha uchun</span></h4>
-                            <ul>
-                                <li><i class="bx bx-check"></i> Istalgan murakkablikdagi telegram botlar</li>
-                                <li><i class="bx bx-check"></i> Qulay admin panel</li>
-                                <li><i class="bx bx-check"></i> Muammosiz userlarga rassilka</li>
-                            </ul>
-                            <a href="#contact" class="scrollto buy-btn">Buyurtma berish</a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
-                        <div class="box featured">
-                            <h3>Veb sayt</h3>
-                            <h4><sup>$</sup>200<span>har bir loyiha uchun</span></h4>
-                            <ul>
-                                <li><i class="bx bx-check"></i> Istalgan murakkablikdagi veb-saytlar</li>
-                                <li><i class="bx bx-check"></i> Qulay admin panel</li>
-                                <li><i class="bx bx-check"></i> Mobil ilovalar uchun rest api</li>
-                                <li><i class="bx bx-check"></i> Qidiruv tizimlarida to'g'ri chiqishini ta'minlash</li>
-                            </ul>
-                            <a href="#contact" class="scrollto buy-btn">Buyurtma berish</a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
-                        <div class="box">
-                            <h3>To'lov tizimlari</h3>
-                            <h4><sup>$</sup>50<span>har bir loyiha uchun</span></h4>
-                            <ul>
-                                <li><i class="bx bx-check"></i> Saytingizga click, payme, worldkassa, wapkassa va boshqa turdagi to'lov tizimlarini qo'shish
-                                </li>
-                                <li><i class="bx bx-check"></i> To'lovlar xavfsizligi
-                                </li>
-                                <li><i class="bx bx-check"></i> Balansga maxsus havola orqali yoki ilovaning ichidan to'lov o'tkazish
-                                </li>
-                            </ul>
-                            <a href="#contact" class="scrollto buy-btn">Buyurtma berish</a>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </section><!-- End Pricing Section -->
-
         <!-- ======= Contact Section ======= -->
         <section id="contact" class="contact section-bg">
             <div class="container" data-aos="fade-up">
@@ -306,11 +246,6 @@
 
                     <div class="col-lg-5 d-flex align-items-stretch">
                         <div class="info">
-                            <div class="address">
-                                <i class="bi bi-geo-alt"></i>
-                                <h4>Manzil:</h4>
-                                <p>Samarqand viloyati, Kattaqo'rg'on tumani, Yangi qishloq qishlog'i</p>
-                            </div>
 
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
