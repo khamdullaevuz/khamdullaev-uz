@@ -246,7 +246,7 @@
 
                     <div class="d-flex align-items-stretch">
                         <div class="info">
-
+                            <div class="col-lg-6 ">
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Elektron pochta:</h4>
@@ -264,6 +264,25 @@
 
                                 <h4>Telegram:</h4>
                                 <p><a href="https://t.me/khamdullaevuz" class="custom-link">@khamdullaevuz</a></p>
+                            </div>
+                                <div class="linkedin">
+                                <i class="bi bi-linkedin"></i>
+                                <h4>LinkedIn:</h4>
+                                <p><a href="mailto:elbek.khamdullaev@gmail.com" class="custom-link">elbek.khamdullaev@gmail.com</a></p>
+                            </div>
+
+                            <div class="phone">
+                                <i class="bi bi-phone"></i>
+                                <h4>Telefon:</h4>
+                                <p><a href="tel:990718525" class="custom-link">+998 (99) 071 85 25</a></p>
+                            </div>
+                     <div class="telegram">
+
+                                <i class="bx bxl-telegram"></i>
+
+                                <h4>Telegram:</h4>
+                                <p><a href="https://t.me/khamdullaevuz" class="custom-link">@khamdullaevuz</a></p>
+                            </div>
                             </div>
                         </div>
 
