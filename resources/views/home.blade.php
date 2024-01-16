@@ -265,6 +265,7 @@
                                 <h4>Telegram:</h4>
                                 <p><a href="https://t.me/khamdullaevuz" class="custom-link">@khamdullaevuz</a></p>
                             </div>
+                            </div><div class="col-lg-6">
                                 <div class="linkedin">
                                 <i class="bi bi-linkedin"></i>
                                 <h4>LinkedIn:</h4>
