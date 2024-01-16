@@ -242,10 +242,9 @@
                         orqali bog'lanishingiz mumkin!</p>
                 </div>
 
-                <div class="row">
 
                     <div class="d-flex align-items-stretch">
-                        <div class="info">
+                        <div class="info row">
                             <div class="col-lg-6 col-md-6 col-sm-12">
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
@@ -287,7 +286,6 @@
                             </div>
                         </div>
 
-                    </div>
 
                 </div>
 
