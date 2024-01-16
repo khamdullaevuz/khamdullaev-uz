@@ -246,7 +246,7 @@
 
                     <div class="d-flex align-items-stretch">
                         <div class="info">
-                            <div class="col-lg-6 ">
+                            <div class="col-lg-6 col-md-6 col-sm-12">
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Elektron pochta:</h4>
@@ -265,7 +265,7 @@
                                 <h4>Telegram:</h4>
                                 <p><a href="https://t.me/khamdullaevuz" class="custom-link">@khamdullaevuz</a></p>
                             </div>
-                            </div><div class="col-lg-6">
+                            </div><div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="linkedin">
                                 <i class="bi bi-linkedin"></i>
                                 <h4>LinkedIn:</h4>
