@@ -61,7 +61,6 @@
                     <li><a class="nav-link scrollto" href="#about">Men haqimda</a></li>
                     <li><a class="nav-link scrollto" href="#services">Xizmatlar</a></li>
                     <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
-                    <li><a class="nav-link scrollto" href="#pricing">Narxlar</a></li>
                     <li><a class="nav-link scrollto" href="#contact">Bog'lanish</a></li>
                     <li><a class="getstarted scrollto" href="#contact">Buyurtma berish</a></li>
                 </ul>
