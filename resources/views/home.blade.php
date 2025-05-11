@@ -258,7 +258,7 @@
 
                         <div class="resume-item">
                             <h4>Backend dasturchi</h4>
-                            <h5>Apr. 2024 — Iyl. 2024 (4-oy)</h5>
+                            <h5>Apr. 2024 — Iyl. 2024 (4 oy)</h5>
                             <p><em>Uniplatforms, Tashkent, Uzbekistan </em></p>
                             <ul>
                                 <li>I participated in create ERP (microservices: crm, hrm, ticket)</li>
@@ -266,7 +266,7 @@
                         </div><!-- Edn Resume Item -->
                         <div class="resume-item">
                             <h4>Backend dasturchi</h4>
-                            <h5>Okt. 2023 — Mar. 2024 (6-oy)</h5>
+                            <h5>Okt. 2023 — Mar. 2024 (6 oy)</h5>
                             <p><em>ABIZ, Tashkent, Uzbekistan </em></p>
                             <ul>
                                 <li>I participated in the creation of the server part of the POS and WMS system at this enterprise. We have created a special system to improve trade and exchange of goods in a chain of stores. I have been involved in developing APIs and building business logic for web, mobile and desktop applications.</li>
