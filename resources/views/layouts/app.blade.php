@@ -9,13 +9,13 @@
     <meta name="title" content="Elbek Khamdullaev">
     <meta name="description" content="Backend Dasturchi">
     <meta content="backend,developer,khamdullaevuz,elbek,khamdullaev" name="keywords">
-    
+
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://khamdullaev.uz/">
     <meta property="og:title" content="Elbek Khamdullaev">
     <meta property="og:description" content="Backend Dasturchi">
     <meta property="og:image" content="https://khamdullaev.uz/img/banner.jpg">
-    
+
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="http://khamdullaev.uz/">
     <meta property="twitter:title" content="Elbek Khamdullaev">
@@ -60,9 +60,10 @@
                     <li><a class="nav-link scrollto active" href="#hero">Bosh sahifa</a></li>
                     <li><a class="nav-link scrollto" href="#about">Men haqimda</a></li>
                     <li><a class="nav-link scrollto" href="#services">Xizmatlar</a></li>
+                    <li><a class="nav-link scrollto" href="#resume">Rezyume</a></li>
                     <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
                     <li><a class="nav-link scrollto" href="#contact">Bog'lanish</a></li>
-                    <li><a class="getstarted scrollto" href="#contact">Buyurtma berish</a></li>
+                    <li><a class="getstarted scrollto" href="#resume">Rezyume</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->

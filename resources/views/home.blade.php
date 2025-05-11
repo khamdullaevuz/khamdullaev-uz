@@ -48,7 +48,8 @@
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0">
                         <p>
-                            Men Elbek Khamdullaev backend dasturchiman. Hozirda ABIZ kompaniyasida faoliyat olib bormoqdaman. Men haqimda batafsil ma'lumotni quyidagi rezyume orqali bilib olishingiz mumkin
+                            Men Elbek Khamdullaev backend dasturchiman. Hozirda BM Electronics kompaniyasida faoliyat
+                            olib bormoqdaman. Men haqimda batafsil ma'lumotni quyidagi rezyume orqali bilib olishingiz mumkin
                         </p>
                         <a href="uploads/resume.pdf" class="btn-learn-more">Rezyume</a>
                     </div>
@@ -200,6 +201,108 @@
 
             </div>
         </section><!-- End Cta Section -->
+
+        <!-- Resume Section -->
+        <section id="resume" class="resume section">
+
+            <!-- Section Title -->
+            <div class="container section-title" data-aos="fade-up">
+                <h2>Resume</h2>
+            </div><!-- End Section Title -->
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                        <h3 class="resume-title">Rezyume</h3>
+
+                        <div class="resume-item pb-0">
+                            <h4>Elbek Khamdullaev</h4>
+                            <p><em>Men backend dasturchiman. Hozirda BM Electronics kompaniyasida faoliyat olib
+                                    bormoqdaman. Men haqimda batafsil ma'lumotni quyidagi rezyume orqali bilib olishingiz mumkin</em></p>
+                            <ul>
+                                <li>Tashkent, Uzbekistan</li>
+                                <li>+998 99 071 85 25</li>
+                            </ul>
+                        </div><!-- Edn Resume Item -->
+
+                        <h3 class="resume-title">Education</h3>
+                        <div class="resume-item">
+                            <h4>Dasturiy injiniring</h4>
+                            <h5>2023 - 2028</h5>
+                            <p><em>Toshkent axborot texnologiyalar universiteti, Toshkent</em></p>
+                            <p>Hozirda Toshkent axborot texnologiyalar universitetining dasturiy injiniring
+                                fakulteti 2-kurs talabasiman</p>
+                        </div><!-- Edn Resume Item -->
+
+                        <div class="resume-item">
+                            <h4>23-Maktab</h4>
+                            <h5>2011 - 2022</h5>
+                            <p><em>Umum ta'lim maktabi, Samarqand</em></p>
+                            <p>Umum ta'lim maktabi</p>
+                        </div><!-- Edn Resume Item -->
+
+                    </div>
+
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                        <h3 class="resume-title">Ish tajriba (4 yil 9 oy)</h3>
+                        <div class="resume-item">
+                            <h4>Middle Backend Dasturchi</h4>
+                            <h5>Aug. 2024 - Hozirgi vaqtgacha (10 oy)</h5>
+                            <p><em>BM Electronics, Tashkent, Uzbekistan </em></p>
+                            <ul>
+                                <li>In this company, I participate in creating a ERP and POS system works on B2B/B2C!</li>
+                            </ul>
+                        </div><!-- Edn Resume Item -->
+
+                        <div class="resume-item">
+                            <h4>Backend dasturchi</h4>
+                            <h5>Apr. 2024 — Iyl. 2024 (4-oy)</h5>
+                            <p><em>Uniplatforms, Tashkent, Uzbekistan </em></p>
+                            <ul>
+                                <li>I participated in create ERP (microservices: crm, hrm, ticket)</li>
+                            </ul>
+                        </div><!-- Edn Resume Item -->
+                        <div class="resume-item">
+                            <h4>Backend dasturchi</h4>
+                            <h5>Okt. 2023 — Mar. 2024 (6-oy)</h5>
+                            <p><em>ABIZ, Tashkent, Uzbekistan </em></p>
+                            <ul>
+                                <li>I participated in the creation of the server part of the POS and WMS system at this enterprise. We have created a special system to improve trade and exchange of goods in a chain of stores. I have been involved in developing APIs and building business logic for web, mobile and desktop applications.</li>
+                            </ul>
+                        </div><!-- Edn Resume Item -->
+                        <div class="resume-item">
+                            <h4>Backend dasturchi</h4>
+                            <h5>Sen. 2022 — Okt. 2023 (1 yil 2 oy)</h5>
+                            <p><em>Radius Mobile, Tashkent, Uzbekistan </em></p>
+                            <ul>
+                                <li>At this company, I developed a backend and CRM system for an e-commerce system. In the system, I created complex programs for e-commerce, credit and other complex systems.</li>
+                            </ul>
+                        </div><!-- Edn Resume Item -->
+                        <div class="resume-item">
+                            <h4>Backend dasturchi</h4>
+                            <h5>Yan. 2021 — Sen. 2022 (1 yil 9 oy)</h5>
+                            <p><em>Freelance, Tashkent, Uzbekistan </em></p>
+                            <ul>
+                                <li>Freelance</li>
+                            </ul>
+                        </div><!-- Edn Resume Item -->
+                        <div class="resume-item">
+                            <h4>Backend dasturchi</h4>
+                            <h5>Sen. 2020 — Yan. 2021 (5 oy)</h5>
+                            <p><em>Techjob, Tashkent, Uzbekistan </em></p>
+                            <ul>
+                                <li>Freelance</li>
+                            </ul>
+                        </div><!-- Edn Resume Item -->
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section><!-- /Resume Section -->
 
         <!-- ======= Portfolio Section ======= -->
         <section id="portfolio" class="portfolio section-bg">
