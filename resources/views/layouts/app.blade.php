@@ -11,15 +11,15 @@
     <meta content="backend,developer,khamdullaevuz,elbek,khamdullaev" name="keywords">
 
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://khamdullaev.uz/">
+    <meta property="og:url" content="https://khamdullaev.uz/">
     <meta property="og:title" content="Elbek Khamdullaev">
     <meta property="og:description" content="Backend Dasturchi">
     <meta property="og:image" content="https://khamdullaev.uz/img/banner.jpg">
 
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="http://khamdullaev.uz/">
+    <meta property="twitter:url" content="https://khamdullaev.uz/">
     <meta property="twitter:title" content="Elbek Khamdullaev">
-    <meta property="twitter:description" content="Backend dasturchi, tizim administratori va ma'lumotlar tahlilchisi">
+    <meta property="twitter:description" content="Backend dasturchi">
     <meta property="twitter:image" content="https://khamdullaev.uz/img/banner.jpg">
 
 
